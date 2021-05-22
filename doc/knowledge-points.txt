@@ -1,0 +1,12 @@
+Wio Terminal:
+1 LCD
+2 ethernet
+3 UART
+
+Zigbee:
+1 control method
+2 net working
+
+Stm32Lxxx:
+1 UART driver
+2 PIR driver
