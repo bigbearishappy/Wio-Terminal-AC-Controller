@@ -2,6 +2,7 @@ Wio Terminal:
 1 LCD
 2 ethernet
 3 UART
+4 bluetooth
 
 Zigbee:
 1 control method
