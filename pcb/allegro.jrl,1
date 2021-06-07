@@ -1,0 +1,77 @@
+\t (08:55:16) allegro 16.6 P004 (v16-6-112G) Windows 32
+\t (08:55:16)     Journal start - Thu Jun 03 21:23:43 2021
+\t (08:55:16)         Host=XIONGJ-PC User=xiongj Pid=5400 CPUs=4
+\t (08:55:16) 
+\d (08:55:16) Database opened: E:/seeed/AC-controller/github/Wio-Terminal-AC-Controller/pcb/AC_CONTROLLER.brd
+\i (08:55:16) generaledit 
+\i (08:55:17) zoom in 1 
+\i (08:55:17) setwindow pcb
+\i (08:55:17) zoom in -13.821 -15.854
+\t (08:55:17) Grids are drawn 1.600, 1.600 apart for enhanced viewability.
+\i (08:55:17) trapsize 1016
+\i (08:55:18) zoom in 1 
+\i (08:55:18) setwindow pcb
+\i (08:55:18) zoom in -1.220 -3.455
+\i (08:55:18) trapsize 508
+\i (08:55:18) zoom in 1 
+\i (08:55:18) setwindow pcb
+\i (08:55:18) zoom in 2.236 -6.097
+\t (08:55:18) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (08:55:18) trapsize 254
+\i (08:55:19) zoom in 1 
+\i (08:55:19) setwindow pcb
+\i (08:55:19) zoom in 26.880 -4.725
+\i (08:55:19) trapsize 127
+\i (08:55:19) zoom in 1 
+\i (08:55:19) setwindow pcb
+\i (08:55:19) zoom in 26.881 -4.725
+\t (08:55:19) Grids are drawn 0.100, 0.100 apart for enhanced viewability.
+\i (08:55:19) trapsize 64
+\i (08:55:19) zoom in 1 
+\i (08:55:19) setwindow pcb
+\i (08:55:19) zoom in 26.893 -4.661
+\i (08:55:19) trapsize 32
+\i (08:55:20) zoom out 1 
+\i (08:55:20) setwindow pcb
+\i (08:55:20) zoom out 25.992 -4.680
+\i (08:55:20) trapsize 64
+\i (08:55:22) zoom out 1 
+\i (08:55:22) setwindow pcb
+\i (08:55:22) zoom out 26.169 -4.184
+\t (08:55:22) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (08:55:22) trapsize 127
+\i (08:55:25) zoom out 1 
+\i (08:55:25) setwindow pcb
+\i (08:55:25) zoom out 23.805 -3.575
+\i (08:55:25) trapsize 254
+\i (08:55:26) zoom in 1 
+\i (08:55:26) setwindow pcb
+\i (08:55:26) zoom in 25.381 -2.812
+\i (08:55:26) trapsize 127
+\i (08:55:26) zoom in 1 
+\i (08:55:26) setwindow pcb
+\i (08:55:26) zoom in 25.356 -2.786
+\t (08:55:26) Grids are drawn 0.100, 0.100 apart for enhanced viewability.
+\i (08:55:26) trapsize 64
+\i (08:55:35) zoom out 1 
+\i (08:55:35) setwindow pcb
+\i (08:55:35) zoom out 24.644 -0.855
+\t (08:55:35) Grids are drawn 0.400, 0.400 apart for enhanced viewability.
+\i (08:55:35) trapsize 127
+\i (08:56:18) pick grid 29.573 -4.209
+\t (08:56:18) last pick:  29.575  -4.200
+\i (08:56:19) pick grid 34.070 -3.142
+\t (08:56:19) last pick:  34.075  -3.150
+\i (08:56:49) open 
+\i (08:57:55) fillin "menu_cancel"
+\i (08:57:55) generaledit 
+\i (08:57:56) open 
+\i (08:58:14) fillin "E:\嵌入式\PCB\pcb_lib2\LM1117_3_3.dra"
+\i (08:58:14) cd "E:\嵌入式\PCB\pcb_lib2"
+\t (08:58:14) Opening existing design...
+\t (08:58:15) Grids are drawn 0.4064, 0.4064 apart for enhanced viewability.
+\i (08:58:15) trapsize 1477
+\i (08:58:15) trapsize 1428
+\i (08:58:15) trapsize 1477
+\i (08:58:16) trapsize 1477
+\t (08:58:16)     Journal end - Thu Jun 03 21:26:43 2021

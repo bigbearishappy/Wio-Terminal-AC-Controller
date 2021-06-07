@@ -1,0 +1,180 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Jun-01-2021 at 04:23:01 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='AC_CONTROLLER';
+ POST_TIME='Sep 10 2012 04:46:09';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ A1 'AMS1117_3V3_LM1117_3_3_AMS1117_':;
+
+SECTION_NUMBER 1
+ '@AC_CONTROLLER.SCHEMATIC1(SCH_1):INS129@SCHEMATIC_COMMON.AMS1117_3V3.NORMAL(CHIPS)':
+ C_PATH='@ac_controller.schematic1(sch_1):ins129@schematic_common.\ams1117_3v3.normal\(chips)',
+ P_PATH='@ac_controller.schematic1(sch_1):page1_ins129@schematic_common.\ams1117_3v3.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C1 'CAP NP_C-0805_22UF':;
+
+SECTION_NUMBER 1
+ '@AC_CONTROLLER.SCHEMATIC1(SCH_1):INS1006@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@ac_controller.schematic1(sch_1):ins1006@discrete.\cap np.normal\(chips)',
+ P_PATH='@ac_controller.schematic1(sch_1):page1_ins1006@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_C-0805_10UF':;
+
+SECTION_NUMBER 1
+ '@AC_CONTROLLER.SCHEMATIC1(SCH_1):INS990@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@ac_controller.schematic1(sch_1):ins990@discrete.\cap np.normal\(chips)',
+ P_PATH='@ac_controller.schematic1(sch_1):page1_ins990@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_C-0805_1UF':;
+
+SECTION_NUMBER 1
+ '@AC_CONTROLLER.SCHEMATIC1(SCH_1):INS187@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@ac_controller.schematic1(sch_1):ins187@discrete.\cap np.normal\(chips)',
+ P_PATH='@ac_controller.schematic1(sch_1):page1_ins187@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'LED_C-0805_BLINK_LED':;
+
+SECTION_NUMBER 1
+ '@AC_CONTROLLER.SCHEMATIC1(SCH_1):INS1510@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@ac_controller.schematic1(sch_1):ins1510@discrete.\led.normal\(chips)',
+ P_PATH='@ac_controller.schematic1(sch_1):page1_ins1510@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_C-0805_PWR_LED':;
+
+SECTION_NUMBER 1
+ '@AC_CONTROLLER.SCHEMATIC1(SCH_1):INS1867@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@ac_controller.schematic1(sch_1):ins1867@discrete.\led.normal\(chips)',
+ P_PATH='@ac_controller.schematic1(sch_1):page1_ins1867@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON2_CON2_R2_54_POWER':;
+
+SECTION_NUMBER 1
+ '@AC_CONTROLLER.SCHEMATIC1(SCH_1):INS290@CONNECTOR.CON2.NORMAL(CHIPS)':
+ C_PATH='@ac_controller.schematic1(sch_1):ins290@connector.\con2.normal\(chips)',
+ P_PATH='@ac_controller.schematic1(sch_1):page1_ins290@connector.\con2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CON4_CON4_2MM_CON4':;
+
+SECTION_NUMBER 1
+ '@AC_CONTROLLER.SCHEMATIC1(SCH_1):INS319@CONNECTOR.CON4.NORMAL(CHIPS)':
+ C_PATH='@ac_controller.schematic1(sch_1):ins319@connector.\con4.normal\(chips)',
+ P_PATH='@ac_controller.schematic1(sch_1):page1_ins319@connector.\con4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'CON4_CON4_2MM_CON4':;
+
+SECTION_NUMBER 1
+ '@AC_CONTROLLER.SCHEMATIC1(SCH_1):INS339@CONNECTOR.CON4.NORMAL(CHIPS)':
+ C_PATH='@ac_controller.schematic1(sch_1):ins339@connector.\con4.normal\(chips)',
+ P_PATH='@ac_controller.schematic1(sch_1):page1_ins339@connector.\con4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'CON4_CON2_R2_54_SWD':;
+
+SECTION_NUMBER 1
+ '@AC_CONTROLLER.SCHEMATIC1(SCH_1):INS727@CONNECTOR.CON4.NORMAL(CHIPS)':
+ C_PATH='@ac_controller.schematic1(sch_1):ins727@connector.\con4.normal\(chips)',
+ P_PATH='@ac_controller.schematic1(sch_1):page1_ins727@connector.\con4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ K1 'KEY2_3_6KEY_KEY2':;
+
+SECTION_NUMBER 1
+ '@AC_CONTROLLER.SCHEMATIC1(SCH_1):INS162@SCHEMATIC_COMMON.KEY2.NORMAL(CHIPS)':
+ C_PATH='@ac_controller.schematic1(sch_1):ins162@schematic_common.\key2.normal\(chips)',
+ P_PATH='@ac_controller.schematic1(sch_1):page1_ins162@schematic_common.\key2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_C-0805_3K':;
+
+SECTION_NUMBER 1
+ '@AC_CONTROLLER.SCHEMATIC1(SCH_1):INS1535@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@ac_controller.schematic1(sch_1):ins1535@discrete.\r.normal\(chips)',
+ P_PATH='@ac_controller.schematic1(sch_1):page1_ins1535@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_C-0805_3K':;
+
+SECTION_NUMBER 1
+ '@AC_CONTROLLER.SCHEMATIC1(SCH_1):INS1892@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@ac_controller.schematic1(sch_1):ins1892@discrete.\r.normal\(chips)',
+ P_PATH='@ac_controller.schematic1(sch_1):page1_ins1892@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_C-0805_10K':;
+
+SECTION_NUMBER 1
+ '@AC_CONTROLLER.SCHEMATIC1(SCH_1):INS854@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@ac_controller.schematic1(sch_1):ins854@discrete.\r.normal\(chips)',
+ P_PATH='@ac_controller.schematic1(sch_1):page1_ins854@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_C-0805_10K':;
+
+SECTION_NUMBER 1
+ '@AC_CONTROLLER.SCHEMATIC1(SCH_1):INS212@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@ac_controller.schematic1(sch_1):ins212@discrete.\r.normal\(chips)',
+ P_PATH='@ac_controller.schematic1(sch_1):page1_ins212@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ T1 'STM32G030F6P6_TSSOP20_STM32G030':;
+
+SECTION_NUMBER 1
+ '@AC_CONTROLLER.SCHEMATIC1(SCH_1):INS62@SCHEMATIC_COMMON.STM32G030F6P6.NORMAL(CHIPS)':
+ C_PATH='@ac_controller.schematic1(sch_1):ins62@schematic_common.\stm32g030f6p6.normal\(chips)',
+ P_PATH='@ac_controller.schematic1(sch_1):page1_ins62@schematic_common.\stm32g030f6p6.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Z1 'ZIGBEE_DL-LN33_ZIGBEE':;
+
+SECTION_NUMBER 1
+ '@AC_CONTROLLER.SCHEMATIC1(SCH_1):INS398@SCHEMATIC_COMMON.ZIGBEE.NORMAL(CHIPS)':
+ C_PATH='@ac_controller.schematic1(sch_1):ins398@schematic_common.\zigbee.normal\(chips)',
+ P_PATH='@ac_controller.schematic1(sch_1):page1_ins398@schematic_common.\zigbee.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

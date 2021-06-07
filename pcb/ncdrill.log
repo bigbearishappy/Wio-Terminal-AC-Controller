@@ -1,0 +1,59 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : #Taaaaba64944.tmp                             )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Tue Jun 01 14:18:00 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.000000	y:0.000000
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		ENGLISH
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+ WARNING(SPMHMF-363): Units system is being switched when generating drill output file data.
+
+
+ Drill files being output to directory 'E:/seeed/AC-controller/github/Wio-Terminal-AC-Controller/pcb' ...
+
+
+
+     'AC_CONTROLLER-1-2.drl' created for holes connecting TOP and BOTTOM
+     -------------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.  12.9921    0.0000/  0.0000      PLATED         19
+            2.  31.4961    0.0000/  0.0000      PLATED          8
+            3.  39.3701    0.0000/  0.0000      PLATED          4
+            4.  43.3071    0.0000/  0.0000      PLATED          2
+            5. 125.9843    0.0000/  0.0000      PLATED          4
+
+     ---- Total holes:                                         37
+
+     ---- Total head travel:              1.61 feet (0.49 meters)
+

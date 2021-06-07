@@ -1,0 +1,103 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : AC_CONTROLLER.brd                             )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Tue Jun 01 05:05:44 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------
+
+RIPUP_ETCH FALSE;
+RIPUP_DELETE_FIRST_SEGMENT FALSE;
+RIPUP_RETAIN_BONDWIRE FALSE;
+RIPUP_SYMBOLS ALWAYS;
+Missing symbol has error FALSE;
+SCHEMATIC_DIRECTORY 'E:/seeed/AC-controller/github/Wio-Terminal-AC-Controller/schematic/allegro';
+BOARD_DIRECTORY '';
+OLD_BOARD_NAME 'E:/seeed/AC-controller/github/Wio-Terminal-AC-Controller/pcb/AC_CONTROLLER.brd';
+NEW_BOARD_NAME 'E:/seeed/AC-controller/github/Wio-Terminal-AC-Controller/pcb/AC_CONTROLLER.brd';
+
+CmdLine: netrev -$ -i E:/seeed/AC-controller/github/Wio-Terminal-AC-Controller/schematic/allegro -y 1 E:/seeed/AC-controller/github/Wio-Terminal-AC-Controller/pcb/#Taaaaho55652.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read E:/seeed/AC-controller/github/Wio-Terminal-AC-Controller/schematic/allegro/pstchip.dat 
+   Finished reading E:/seeed/AC-controller/github/Wio-Terminal-AC-Controller/schematic/allegro/pstchip.dat (00:00:00.09)
+Starting to read E:/seeed/AC-controller/github/Wio-Terminal-AC-Controller/schematic/allegro/pstxprt.dat 
+   Finished reading E:/seeed/AC-controller/github/Wio-Terminal-AC-Controller/schematic/allegro/pstxprt.dat (00:00:00.00)
+Starting to read E:/seeed/AC-controller/github/Wio-Terminal-AC-Controller/schematic/allegro/pstxnet.dat 
+   Finished reading E:/seeed/AC-controller/github/Wio-Terminal-AC-Controller/schematic/allegro/pstxnet.dat (00:00:00.00)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           C:/cadence/Cadence/Cadence_SPB_16.6/share/local/pcb/modules 
+
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/cadence/Cadence/Cadence_SPB_16.6/share/local/pcb/symbols 
+           C:/cadence/Cadence/Cadence_SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/cadence/Cadence/Cadence_SPB_16.6/share/pcb/allegrolib/symbols 
+           E:/嵌入式/PCB/pcb_lib/ 
+           E:/嵌入式/PCB/PCB_lib1/ 
+           E:/嵌入式/PCB/pcb_lib2/ 
+           E:/嵌入式/PCB/PCB_lib3/ 
+           E:/嵌入式/PCB/pcb_lib4/ 
+           E:/嵌入式/PCB/PCB_lib5/ 
+           E:/做点事情/公众号/公用pcb设计/ 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           C:/cadence/Cadence/Cadence_SPB_16.6/share/local/pcb/padstacks 
+           C:/cadence/Cadence/Cadence_SPB_16.6/share/pcb/pcb_lib/symbols 
+           C:/cadence/Cadence/Cadence_SPB_16.6/share/pcb/allegrolib/symbols 
+           E:/嵌入式/PCB/pcb_lib/ 
+           E:/嵌入式/PCB/PCB_lib1/ 
+           E:/嵌入式/PCB/pcb_lib2/ 
+           E:/嵌入式/PCB/PCB_lib3/ 
+           E:/嵌入式/PCB/pcb_lib4/ 
+           E:/嵌入式/PCB/PCB_lib5/ 
+           E:/做点事情/公众号/公用pcb设计/ 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Jun 1 5:05:44 2021
+   DESIGN NAME : 'AC_CONTROLLER'
+   PACKAGING ON Sep 10 2012 04:46:09
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:02:26
+elapsed time  0:00:01
+

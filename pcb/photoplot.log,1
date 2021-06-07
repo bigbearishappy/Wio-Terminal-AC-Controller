@@ -1,0 +1,380 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : AC_CONTROLLER.brd                             )
+(    Software Version : 16.6P004                                      )
+(    Date/Time        : Tue Jun 01 15:06:29 2021                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found ... using drawing extents
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < E:/seeed/AC-controller/github/Wio-Terminal-AC-Controller/pcb/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.25400                                  DARK 
+  CIRCLE     0.50800                                  DARK 
+  CIRCLE     0.61000                                  DARK 
+  CIRCLE     1.01600                                  DARK 
+  CIRCLE     1.50000                                  DARK 
+  CIRCLE     1.80000                                  DARK 
+  CIRCLE     1.84900                                  DARK 
+  CIRCLE     4.00000                                  DARK 
+  SQUARE     1.50000                     0.000 NO     DARK 
+  SQUARE     1.80000                     0.000 NO     DARK 
+  SQUARE     1.84900                     0.000 NO     DARK 
+  RECTANGLE  1.65100     x 0.33000       0.000 NO     DARK 
+  RECTANGLE  1.75000     x 1.00000       0.000 NO     DARK 
+  RECTANGLE  1.80000     x 1.30000       0.000 NO     DARK 
+  RECTANGLE  2.15000     x 0.95000       0.000 NO     DARK 
+  RECTANGLE  2.15000     x 3.25000       0.000 NO     DARK 
+  PAD SHAPE  SRX0_85Y1_45R0_10           0.000 NO     DARK 
+  PAD SHAPE  SRX0_85Y1_45R0_10         180.000 NO     DARK 
+
+     TOP created.
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < E:/seeed/AC-controller/github/Wio-Terminal-AC-Controller/pcb/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.25400                                  DARK 
+  CIRCLE     0.50800                                  DARK 
+  CIRCLE     0.61000                                  DARK 
+  CIRCLE     1.01600                                  DARK 
+  CIRCLE     1.50000                                  DARK 
+  CIRCLE     1.80000                                  DARK 
+  CIRCLE     1.84900                                  DARK 
+  CIRCLE     4.00000                                  DARK 
+  SQUARE     1.50000                     0.000 NO     DARK 
+  SQUARE     1.80000                     0.000 NO     DARK 
+  SQUARE     1.84900                     0.000 NO     DARK 
+
+     BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < DRILL_DRAW >
+     TO FILE < E:/seeed/AC-controller/github/Wio-Terminal-AC-Controller/pcb/DRILL_DRAW.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (-31.400 -14.900)
+           ... ignored.
+
+    WARNING: rectangle or unfilled shape composed 0 width line found at (-31.325 24.566)
+           ... ignored.
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+    WARNING: text composed 0 width line found at (-19.910 62.626)
+           ... ignored.
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+
+
+  APERTURES USED:  NONE
+     DRILL_DRAW created with warnings
+
+
+================================================================
+     PROCESSING FILM < OUTLINE >
+     TO FILE < E:/seeed/AC-controller/github/Wio-Terminal-AC-Controller/pcb/OUTLINE.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     OUTLINE created.
+
+
+================================================================
+     PROCESSING FILM < PASTEMASK_BOTTOM >
+     TO FILE < E:/seeed/AC-controller/github/Wio-Terminal-AC-Controller/pcb/PASTEMASK_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.50000                                  DARK 
+  CIRCLE     1.80000                                  DARK 
+  CIRCLE     4.00000                                  DARK 
+  SQUARE     1.50000                     0.000 NO     DARK 
+  SQUARE     1.80000                     0.000 NO     DARK 
+
+     PASTEMASK_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < PASTEMASK_TOP >
+     TO FILE < E:/seeed/AC-controller/github/Wio-Terminal-AC-Controller/pcb/PASTEMASK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.50000                                  DARK 
+  CIRCLE     1.80000                                  DARK 
+  CIRCLE     4.00000                                  DARK 
+  SQUARE     1.50000                     0.000 NO     DARK 
+  SQUARE     1.80000                     0.000 NO     DARK 
+  RECTANGLE  1.75000     x 1.00000       0.000 NO     DARK 
+  RECTANGLE  1.80000     x 1.30000       0.000 NO     DARK 
+  RECTANGLE  2.15000     x 0.95000       0.000 NO     DARK 
+  RECTANGLE  2.15000     x 3.25000       0.000 NO     DARK 
+  PAD SHAPE  SRX0_85Y1_45R0_10           0.000 NO     DARK 
+  PAD SHAPE  SRX0_85Y1_45R0_10         180.000 NO     DARK 
+
+     PASTEMASK_TOP created.
+
+
+================================================================
+     PROCESSING FILM < SILKSCREEN_BOTTOM >
+     TO FILE < E:/seeed/AC-controller/github/Wio-Terminal-AC-Controller/pcb/SILKSCREEN_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:  NONE
+     SILKSCREEN_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < SILKSCREEN_TOP >
+     TO FILE < E:/seeed/AC-controller/github/Wio-Terminal-AC-Controller/pcb/SILKSCREEN_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: rectangle or unfilled shape having Multiple 0 width lines; all will be treated the same as the first.
+           ... ignored.
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+
+     SILKSCREEN_TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < SOLDERMASK_BOTTOM >
+     TO FILE < E:/seeed/AC-controller/github/Wio-Terminal-AC-Controller/pcb/SOLDERMASK_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.11800                                  DARK 
+  CIRCLE     1.60000                                  DARK 
+  CIRCLE     1.90000                                  DARK 
+  CIRCLE     1.95100                                  DARK 
+  CIRCLE     4.10000                                  DARK 
+  SQUARE     1.60000                     0.000 NO     DARK 
+  SQUARE     1.90000                     0.000 NO     DARK 
+  SQUARE     1.95100                     0.000 NO     DARK 
+
+     SOLDERMASK_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < SOLDERMASK_TOP >
+     TO FILE < E:/seeed/AC-controller/github/Wio-Terminal-AC-Controller/pcb/SOLDERMASK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.000
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.000
+  Offset y:                           0.000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.11800                                  DARK 
+  CIRCLE     1.60000                                  DARK 
+  CIRCLE     1.90000                                  DARK 
+  CIRCLE     1.95100                                  DARK 
+  CIRCLE     4.10000                                  DARK 
+  SQUARE     1.60000                     0.000 NO     DARK 
+  SQUARE     1.90000                     0.000 NO     DARK 
+  SQUARE     1.95100                     0.000 NO     DARK 
+  RECTANGLE  1.85000     x 1.10000       0.000 NO     DARK 
+  RECTANGLE  1.85000     x 1.35000       0.000 NO     DARK 
+  RECTANGLE  1.90500     x 0.45700       0.000 NO     DARK 
+  RECTANGLE  2.25000     x 1.05000       0.000 NO     DARK 
+  RECTANGLE  2.25000     x 3.35000       0.000 NO     DARK 
+  PAD SHAPE  SRX0_95Y1_55R0_10           0.000 NO     DARK 
+  PAD SHAPE  SRX0_95Y1_55R0_10         180.000 NO     DARK 
+
+     SOLDERMASK_TOP created.
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created.
+        BOTTOM created.
+        DRILL_DRAW created with warnings
+        OUTLINE created.
+        PASTEMASK_BOTTOM created.
+        PASTEMASK_TOP created.
+        SILKSCREEN_BOTTOM created.
+        SILKSCREEN_TOP created with warnings
+        SOLDERMASK_BOTTOM created.
+        SOLDERMASK_TOP created.
+
+ ARTWORK finished

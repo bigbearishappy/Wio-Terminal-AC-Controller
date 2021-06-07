@@ -1,0 +1,31 @@
+  Revised: Tuesday, June 01, 2021
+          Revision: 
+
+
+
+
+
+
+
+Bill Of Materials           June 3,2021      12:32:48	Page1
+
+Item	Quantity	Reference	Part
+______________________________________________
+
+1	1	A1	AMS1117_3V3
+2	1	C1	22uF
+3	1	C2	10uF
+4	1	C3	1uF
+5	1	D1	BLINK_LED
+6	1	D2	PWR_LED
+7	1	J1	POWER
+8	2	J2	CON4
+		J3	CON4
+9	1	J4	SWD
+10	1	K1	KEY2
+11	2	R1	3K
+		R2	3K
+12	2	R3	10K
+		R4	10K
+13	1	T1	STM32G030F6P6
+14	1	Z1	Zigbee
